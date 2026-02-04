@@ -5,7 +5,7 @@ This project focuses on analyzing credit risk using real-world financial and dem
 The goal is to explore which factors are associated with a higher probability of financial distress
 and to build an interpretable statistical model based on these variables.
 
-The project was completed as a **final assignment for a university data analysis course** and was fully
+The project was completed as a **final assignment for the _Data Analysis in R_ course** and was fully
 implemented in **R**.
 
 ## Research Objective
